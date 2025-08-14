@@ -27,4 +27,4 @@ Este projeto foi desenvolvido durante a imersão de dados com Python da Alura, c
 - Visualizações interativas.
 - Criação de dashboards.
 
-🔗 Dashboard Online:([https://dashboardrederestaurantes.streamlit.app/](https://dashboard-de-salarios-nataly-lucon.streamlit.app/))
+🔗 Dashboard Online: https://dashboard-de-salarios-nataly-lucon.streamlit.app/
